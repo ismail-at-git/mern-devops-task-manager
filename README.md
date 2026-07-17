@@ -1,4 +1,4 @@
-# MERN DevOps Task Manager
+# MERN DevOps Task Manager 
 
 A professional MERN stack task management application with Docker, CI/CD readiness, JWT authentication, and health checks.
 
